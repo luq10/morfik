@@ -1,0 +1,5 @@
+.form-group label {
+  width: 100px;
+  display: inline-block;
+  padding: 0.5rem;
+}
